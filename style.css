@@ -1,0 +1,11 @@
+body {
+  color: peachpuff;
+  text-align: center;
+  font-family: Georgia;
+  background: black;
+}
+
+body img {
+  width: 75%;
+  border-radius: 16px;
+}
